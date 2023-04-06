@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shash0708/REACT.git/static/css/main.2784506f.css",
-    "main.js": "/shash0708/REACT.git/static/js/main.e3e33038.js",
-    "static/js/787.28cb0dcd.chunk.js": "/shash0708/REACT.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/shash0708/REACT.git/index.html",
-    "main.2784506f.css.map": "/shash0708/REACT.git/static/css/main.2784506f.css.map",
-    "main.e3e33038.js.map": "/shash0708/REACT.git/static/js/main.e3e33038.js.map",
-    "787.28cb0dcd.chunk.js.map": "/shash0708/REACT.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/rw/static/css/main.2784506f.css",
+    "main.js": "/rw/static/js/main.027026b8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rw/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/rw/index.html",
+    "main.2784506f.css.map": "/rw/static/css/main.2784506f.css.map",
+    "main.027026b8.js.map": "/rw/static/js/main.027026b8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rw/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2784506f.css",
-    "static/js/main.e3e33038.js"
+    "static/js/main.027026b8.js"
   ]
 }
